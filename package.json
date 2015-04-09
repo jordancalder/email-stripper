@@ -1,0 +1,37 @@
+{
+  "name": "email-stripper",
+  "description": "A tool to find and remove email addresses from a set of text.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jordancalder/email-stripper",
+  "author": {
+    "name": "Sterling Jordan Calder",
+    "email": "jordancalder@gmail.com",
+    "url": "http://jordancalder.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jordancalder/email-stripper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jordancalder/email-stripper/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jordancalder/email-stripper/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/email-stripper",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "email",
+    "sanitize",
+    "clean",
+    "strip",
+    "remove",
+    "stream",
+    "transform"
+  ]
+}
