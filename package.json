@@ -1,7 +1,7 @@
 {
   "name": "email-stripper",
   "description": "A tool to find and remove email addresses from a set of text.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jordancalder/email-stripper",
   "author": {
     "name": "Sterling Jordan Calder",
